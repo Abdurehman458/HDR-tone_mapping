@@ -22,3 +22,9 @@ This repository is part of the *Computational Imaging* course at DGIST.
 5) After tone-mapping base and detail layers are combined with color layer to produce tone-mapped image. 
 
 ![tone-mapped Image](figs/Figure_4.png)
+
+# Acknowledgement:
+For this assignment, following resources were quite helpful:
+
+1. (http://people.csail.mit.edu/fredo/PUBLI/Siggraph2002/ )
+2. (https://sites.google.com/site/ianschillebeeckx/cse555/hmwk1 )
